@@ -1,6 +1,6 @@
 # Mother's Day and Father's Day for Google Calendar
 
-[Download ICS File](./files/Australian_Mothers_Fathers_Day.ics)
+[Download ICS File](https://raw.githubusercontent.com/voltrevo/gcal-mothers-and-fathers-day/refs/heads/main/files/Australian_Mothers_Fathers_Day.ics)
 
 In Australia, Mother's Day and Father's Day cannot easily be added to Google Calendar.
 
