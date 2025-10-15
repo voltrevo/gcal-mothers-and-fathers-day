@@ -8,7 +8,7 @@ Google made a change in 2024 to rely on external sources for populating calendar
 
 The external source Google uses for Australia doesn't include Mother's and Father's days, because the Australian Government doesn't actually recognize them officially anywhere.
 
-Maybe that should change, but in the meantime, you can [download this file](https://voltrevo-stuff.s3.ap-southeast-2.amazonaws.com/2025/Australian_Mothers_Fathers_Day.ics) and import it into Google Calendar if you want these days in your calendar.
+Maybe that should change, but in the meantime, you can [download this file](https://voltrevo-stuff.s3.ap-southeast-2.amazonaws.com/2025/Australian_Mothers_Fathers_Day.ics) and import it.
 
 ## How to Import ICS Files
 
